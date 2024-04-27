@@ -12,7 +12,10 @@ To run the web application locally, follow these steps:
 * Create a virtual environment for the project.
 * Install all the required dependencies.
 * Download the pre-trained weights for the models [here](https://drive.google.com/drive/folders/15LnW-DVp9VOx7-hPbCGKrfb8Ot0m_qlA?usp=sharing). Add them to a 'weights' folder in the project directory.
-* Run the following command in your terminal: `streamlit run app.py`
+* Run the following command in your terminal to run the app
+  ```
+  streamlit run app.py
+  ```
 
 ## Web Application Features
 The web application is built using Streamlit, providing user-friendly options for bone fracture detection:
