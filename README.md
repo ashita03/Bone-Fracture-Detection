@@ -22,16 +22,22 @@ The web application is built using Streamlit, providing user-friendly options fo
 
 ### Left Panel
 * Model Selection: Users can choose from the three available models: YOLOv8, Faster R-CNN with ResNet, and VGG16 with SSD.
-* Confidence Threshold: A slider in the left panel allows users to set the confidence threshold for predictions.
+* Confidence Threshold: A slider in the left panel allows users to set the prediction confidence threshold.
 
 ### Overview Tab
-The Overview tab provides information about the different models used for bone fracture detection, along with their significance and performance metrics.
+The Overview tab provides information about the different models used for bone fracture detection, their significance, and performance metrics.
 
 ### Testing Tab
 In the Testing tab, users can test the models by uploading images and observing the detection results.
 
+
+## Working Demo
+
+https://github.com/ashita03/Bone-Fracture-Detection/assets/66629830/00368de2-d025-499e-9369-3d4f4d981098
+
+
 ## Get Started
-To get started with the bone fracture detection web application, you can clone this repository and follow the instructions above to run the application locally. Experiment with different models and confidence thresholds to explore their performance.
+To get started with the bone fracture detection web application, you'll need to clone this repository and follow the instructions above to run the application locally. Experiment with different models and confidence thresholds to explore their performance.
 
 For any issues or feedback, please feel free to reach out
 
