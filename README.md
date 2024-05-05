@@ -31,7 +31,7 @@ The web application is built using Streamlit, providing user-friendly options fo
 The Overview tab provides information about the different models used for bone fracture detection, their significance, and performance metrics.
 
 ### Testing Tab
-In the Testing tab, users can test the models by uploading images and observing the detection results.
+In the Testing tab, users can test the models by uploading images and observing the detection results that includes the output class and the respective bounding box and scores.
 
 
 ##  Working Demo
