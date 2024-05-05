@@ -6,7 +6,7 @@ This project involves a web application that uses computer vision to predict bon
 The dataset used for bone fracture detection is available on Kaggle. You can find the dataset and additional information [here](https://www.kaggle.com/datasets/pkdarabi/bone-fracture-detection-computer-vision-project).
 
 ## About Data
-The dataset includes X-ray images of different bone fractures. The classes available in the dataset are - Elbow Positive, Fingers Positive, Forearm Fracture, Humerus Fracture, Shoulder Fracture, and Wrist Positive.
+The dataset includes X-ray images of different bone fractures. The classes available in the dataset are - Elbow Positive, Fingers Positive, Forearm Fracture, Humerus Fracture, Shoulder Fracture, and Wrist Positive. Each image includes a corresponding file with the annotated bounding box of the fracture.
 
 ## Running the Repository
 To run the web application locally, follow these steps:
