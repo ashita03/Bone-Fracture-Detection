@@ -42,6 +42,4 @@ https://github.com/ashita03/Bone-Fracture-Detection/assets/66629830/00368de2-d02
 ## Get Started
 To get started with the bone fracture detection web application, you'll need to clone this repository and follow the instructions above to run the application locally. Experiment with different models and confidence thresholds to explore their performance.
 
-For any issues or feedback, please feel free to reach out
-
-Enjoy detecting bone fractures with computer vision!
+For any issues, feedback or collaboration, please feel free to reach out
