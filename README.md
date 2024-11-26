@@ -1,4 +1,4 @@
-#  Bone Fracture Detection Web Application
+#  Bone Fracture Detection Web Application using Computer Vision
 
 This project involves a web application that uses computer vision to predict bone fracture detection. The application utilizes three different models for classification and detection: YOLOv8, Faster R-CNN with ResNet, and VGG16 with SSD.
 
